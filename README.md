@@ -1,4 +1,6 @@
-<h1 align="center">Hello!</a>
+<h1 align="center">Hello!</h1>
+<h3 align="center"Frontend Developer</h3>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="32"/>
 
 
 <!--
