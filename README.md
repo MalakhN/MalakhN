@@ -2,6 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="32" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="32" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="32" align="left"/>
 
 
 <!--
