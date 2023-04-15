@@ -6,6 +6,7 @@
 <img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="32" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="32" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="32" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="32" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="32" align="left"/>
 
 
