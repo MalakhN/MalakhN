@@ -1,5 +1,5 @@
 <h1 align="center">Frontend Developer</h1>
-<h3 align="center">Junior</h3>
+<h4 align="center">Junior</h4>
 <h2 align="left">Technology Stack</h2>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="32" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="32" align="left"/>
