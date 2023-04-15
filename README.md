@@ -1,4 +1,4 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">Natasha Malakhova</h1>
 <h3 align="center">Frontend Developer</h3>
 <h2 align="left">Technology Stack</h2>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="32" align="left"/>
