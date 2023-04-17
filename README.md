@@ -1,14 +1,14 @@
 <h1 align="center">Frontend Developer</h1>
 <h4 align="center">Junior</h4>
 <h2 align="left">Technology Stack</h2>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="32" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="32" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/>
 
 
 <!--
