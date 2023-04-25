@@ -5,13 +5,13 @@
 <img src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="30" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="30" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
+<img alt="Node.js" src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="30" align="left"/>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MalakhN/MalakhN/blob/main/express-light-mode.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MalakhN/MalakhN/blob/main/express-dark-mode.svg">
-  <img src="https://github.com/MalakhN/MalakhN/blob/main/express-dark-mode.svg" height="30" align="left"/>
+  <img alt="Express" src="https://github.com/MalakhN/MalakhN/blob/main/express-dark-mode.svg" height="30" align="left"/>
 </picture>
+<img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/>
 
