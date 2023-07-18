@@ -13,10 +13,11 @@
 </picture>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/>
-<br>
-***
-**email:** nata.malakh89@ya.ru
+<img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/> <br> <br>
+<h4 align="left">Contacts</h4>
+<ul>
+  <li>nata.malakh89@ya.ru</li>
+</ul>
 
 
 
