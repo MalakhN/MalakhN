@@ -14,7 +14,9 @@
 <img src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/>
-<p>- 📫 email: nata.malakh89@ya.ru</p>
+<br>
+***
+**email:** nata.malakh89@ya.ru
 
 
 
