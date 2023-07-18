@@ -15,6 +15,8 @@
 <img src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/>
 
+- 📫 email: nata.malakh89@ya.ru
+
 
 <!--
 **MalakhN/MalakhN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
