@@ -1,7 +1,7 @@
 <h1 align="center">Frontend Developer</h1>
 <h4 align="center">Junior</h4>
 <h2 align="left">Technology Stack</h2>
-<img src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="30" align="left"/>
+<img title="html" src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="30" align="left"/>
 <img src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="30" align="left"/>
