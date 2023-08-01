@@ -17,6 +17,7 @@
 <h4 align="left">Contacts</h4>
 <ul>
   <li>nata.malakh89@ya.ru</li>
+  <li>https://t.me/LassThatIsGone</li>
 </ul>
 
 
