@@ -14,7 +14,7 @@
 <img title="Webpack" src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
 <img title="Git" src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
 <img title="Figma" src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/> <br> <br>
-<h4 align="left">Contacts</h4>
+<h2 align="left">Contacts</h2>
 <ul>
   <li>nata.malakh89@ya.ru</li>
   <li>https://t.me/LassThatIsGone</li>
