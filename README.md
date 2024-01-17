@@ -1,7 +1,6 @@
 <h1 align="center">Frontend Developer</h1>
 <h4 align="center">I'm looking for projects where I can grow as a professional and gain useful experience.</h4>
-<h6 align="center">I like to think rationally and approach problems logically. I'm also very curious.<br>
-  Although I'm not very sociable, I'm more of an introvert, but I'm not conflicted person and cooperate easily.</h6>
+>If more of us valued food and cheer and song above hoarded gold, it would be a merrier world. (Thorin Oakenshield "Hobbit")
 <h2 align="left">Technology Stack</h2>
 <img title="HTML" src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="30" align="left"/>
 <img title="CSS" src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="30" align="left"/>
