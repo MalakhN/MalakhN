@@ -19,6 +19,7 @@
   <li>nata.malakh89@ya.ru</li>
   <li>https://t.me/LassThatIsGone</li>
 </ul>
-
-   &nbsp> ***If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.*** <br>   *Thorin Oakenshield "Hobbit"*
+ &nbsp
+ 
+> ***If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.*** <br>   *Thorin Oakenshield "Hobbit"*
 
