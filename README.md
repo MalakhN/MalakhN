@@ -22,10 +22,12 @@
   <li>nata.malakh89@ya.ru</li>
   <li>https://t.me/LassThatIsGone</li>
 </ul>
- &nbsp
 
+<h2 align="left">Portfolio 🠋</h2>
+You can see some of my projects below &darr;
 <!---
 > ***If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.*** <br>   *Thorin Oakenshield "Hobbit"*
 
 > ***Að nenna***<br>   *The people of Iceland*
+--->
 
