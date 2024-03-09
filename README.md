@@ -24,7 +24,8 @@
 </ul>
 
 <h2 align="left">Portfolio 🠋</h2>
-You can see some of my projects below &darr;
+You can see some of my projects below &darr; <br>
+Or find remaining projects in the list of repositories &uarr;
 <!---
 > ***If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.*** <br>   *Thorin Oakenshield "Hobbit"*
 
