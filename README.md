@@ -1,5 +1,5 @@
 <h1 align="center">Frontend Developer</h1>
-<h4 align="center">I'm looking for opportunities that'll help me grow as a professional and get some great experience under my belt.</h4>
+<h4 align="center">I'm looking for opportunities that'll help me to grow as a professional and get some great experience under my belt.</h4>
 <h2 align="left">Technology Stack</h2>
 <img title="HTML" src="https://github.com/MalakhN/MalakhN/blob/main/html5.svg" height="30" align="left"/>
 <img title="CSS" src="https://github.com/MalakhN/MalakhN/blob/main/css3.svg" height="30" align="left"/>
