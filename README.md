@@ -6,12 +6,12 @@
 <img title="JavaScript"src="https://github.com/MalakhN/MalakhN/blob/main/javascript.svg" height="30" align="left"/>
 <img title="React" src="https://github.com/MalakhN/MalakhN/blob/main/react.svg" height="30" align="left"/>
 <img title="Node.js" src="https://github.com/MalakhN/MalakhN/blob/main/nodedotjs.svg" height="30" align="left"/>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MalakhN/MalakhN/blob/main/express-light-mode.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MalakhN/MalakhN/blob/main/express-dark-mode.svg">
   <img title="Express" src="https://github.com/MalakhN/MalakhN/blob/main/express-dark-mode.svg" height="30" align="left"/>
 </picture>
-<img title="Webpack" src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/>
+<img title="Webpack" src="https://github.com/MalakhN/MalakhN/blob/main/webpack.svg" height="30" align="left"/> -->
 <img title="Git" src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
 <img title="Figma" src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/> <br> <br>
 
