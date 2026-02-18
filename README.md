@@ -15,8 +15,6 @@
 <img title="Git" src="https://github.com/MalakhN/MalakhN/blob/main/git.svg" height="30" align="left"/>
 <img title="Figma" src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" height="30" align="left"/> <br> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalakhN&theme=github_dark&layout=compact)
-
 <h2 align="left">Contacts</h2>
 <ul>
   <li>nata.malakh89@ya.ru</li>
